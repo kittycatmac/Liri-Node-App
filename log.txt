@@ -1,0 +1,1804 @@
+Venue: undefined
+
+location: undefined
+
+date: undefined
+
+line-up: undefined
+
+description: undefined
+
+URL: undefined
+------------------------------------------------------------
+
+Venue: undefined
+
+location: undefined
+
+date: undefined
+
+line-up: undefined
+
+description: undefined
+
+URL: undefinedTitle of the movie: undefined
+
+Year the movie came out: undefined
+
+IMDB Rating of the movie: undefined
+
+Rotten Tomatoes Rating of the movie: undefined
+
+Country where the movie was produced: undefined
+
+language of the movie: undefined
+
+Actors in the movie: undefinedArtist: undefined
+
+The song's name: undefined
+
+A preview link of the the song from Spotify: undefined
+
+The album that the song is from: undefinedTitle of the movie: undefined
+
+Year the movie came out: undefined
+
+IMDB Rating of the movie: undefined
+
+Rotten Tomatoes Rating of the movie: undefined
+
+Country where the movie was produced: undefined
+
+language of the movie: undefined
+
+Actors in the movie: undefinedVenue: undefined
+
+location: undefined
+
+date: undefined
+
+line-up: undefined
+
+description: undefined
+
+URL: undefinedTitle of the movie: undefined
+
+Year the movie came out: undefined
+
+IMDB Rating of the movie: undefined
+
+Rotten Tomatoes Rating of the movie: undefined
+
+Country where the movie was produced: undefined
+
+language of the movie: undefined
+
+Actors in the movie: undefinedTitle of the movie: undefined
+
+Year the movie came out: undefined
+
+IMDB Rating of the movie: undefined
+
+Rotten Tomatoes Rating of the movie: undefined
+
+Country where the movie was produced: undefined
+
+language of the movie: undefined
+
+Actors in the movie: undefinedVenue: undefined
+
+location: undefined
+
+date: undefined
+
+line-up: undefined
+
+description: undefined
+
+URL: undefinedTitle of the movie: undefined
+
+Year the movie came out: undefined
+
+IMDB Rating of the movie: undefined
+
+Rotten Tomatoes Rating of the movie: undefined
+
+Country where the movie was produced: undefined
+
+language of the movie: undefined
+
+Actors in the movie: undefinedTitle of the movie: Hook
+
+Year the movie came out: 11 Dec 1991
+
+IMDB Rating of the movie: PG
+
+Rotten Tomatoes Rating of the movie: [object Object],[object Object],[object Object]
+
+Country where the movie was produced: USA
+
+language of the movie: English
+
+Actors in the movie: Dustin Hoffman, Robin Williams, Julia Roberts, Bob HoskinsVenue: undefined
+
+location: undefined
+
+date: undefined
+
+line-up: undefined
+
+description: undefined
+
+URL: undefinedVenue: undefined
+
+location: undefined
+
+date: 2018-10-10T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: In order to deliver the high standard tour experience you expect and deserve, this Aubrey & the Three Migos tour date has been rescheduled and will now take place on 10/10/18. Original tickets will be valid for new date.
+
+URL: https://www.bandsintown.com/e/1011019786?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: undefined
+
+date: 2018-10-12T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1009789108?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: undefined
+
+date: 2018-10-13T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1009790522?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: undefined
+
+date: 2018-10-14T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1009901900?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: undefined
+
+date: 2018-10-16T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1009789906?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: undefined
+
+date: 2018-10-19T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1010321773?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: undefined
+
+date: 2018-10-17T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1009790551?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: undefined
+
+date: 2018-10-20T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1011812722?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: undefined
+
+date: 2018-10-26T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1009790634?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: undefined
+
+date: 2018-10-26T21:30:00
+
+line-up: Drake
+
+description: 
+
+URL: https://www.bandsintown.com/e/100395969?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: undefined
+
+date: 2018-10-27T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1009790219?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: undefined
+
+date: 2018-10-29T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1010323148?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: undefined
+
+date: 2018-11-01T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1009789021?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: undefined
+
+date: 2018-11-03T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1009789929?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: undefined
+
+date: 2018-11-04T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1009790459?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: undefined
+
+date: 2018-11-07T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: Floor is General Admission standing room.
+
+URL: https://www.bandsintown.com/e/1010322904?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: undefined
+
+date: 2018-11-11T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1011823548?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: undefined
+
+date: 2018-11-06T19:30:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: Floor is General Admission standing room.
+
+URL: https://www.bandsintown.com/e/1009790159?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: undefined
+
+date: 2018-11-13T20:00:00
+
+line-up: Drake,Migos
+
+description: This event has been rescheduled. Original date: 9/21/18 7pm New date: 11/13/18 8pm
+
+URL: https://www.bandsintown.com/e/1011889929?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: undefined
+
+date: 2018-11-14T19:00:00
+
+line-up: Drake,Migos
+
+description: This event has been rescheduled. Original date: 9/22/18 7pm New date: 11/14/18 7pm
+
+URL: https://www.bandsintown.com/e/1011889885?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: undefined
+
+date: 2018-11-16T19:30:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: American Express has set a two-order limit for this offer. This limit applies across all Cards associated with all of your American Express accounts. Prepaid Cards are not eligible for this offer.
+
+URL: https://www.bandsintown.com/e/1009790453?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: undefined
+
+date: 2018-11-17T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1009789069?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: undefined
+
+date: 2018-11-29T19:00:00
+
+line-up: Drake,Shakura S'aida,Mia Martina,Giada De Laurentiis,Jessie Reyez
+
+description: Cocktail Hour Including Wine Tastings: 7:00pm Show Begins: 8:00pm Age Restrictions: 19+ Seats will be confirmed 1 week before the date of the event, but are subject to change. All guests are guaranteed the same or better seats.
+
+URL: https://www.bandsintown.com/e/1010058007?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: undefined
+
+date: 2019-03-09T19:00:00
+
+line-up: Drake
+
+description: 
+
+URL: https://www.bandsintown.com/e/1011767345?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: undefined
+
+date: 2019-03-08T19:00:00
+
+line-up: Drake
+
+description: 
+
+URL: https://www.bandsintown.com/e/1011767709?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: Salt Lake City 
+
+date: 2018-10-10T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: In order to deliver the high standard tour experience you expect and deserve, this Aubrey & the Three Migos tour date has been rescheduled and will now take place on 10/10/18. Original tickets will be valid for new date.
+
+URL: https://www.bandsintown.com/e/1011019786?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: Los Angeles 
+
+date: 2018-10-12T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1009789108?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: Los Angeles 
+
+date: 2018-10-13T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1009790522?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: Los Angeles 
+
+date: 2018-10-14T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1009901900?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: Los Angeles 
+
+date: 2018-10-16T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1009789906?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: Los Angeles 
+
+date: 2018-10-17T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1009790551?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: Los Angeles 
+
+date: 2018-10-19T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1010321773?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: Los Angeles 
+
+date: 2018-10-20T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1011812722?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: Oakland 
+
+date: 2018-10-26T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1009790634?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: Alameda 
+
+date: 2018-10-26T21:30:00
+
+line-up: Drake
+
+description: 
+
+URL: https://www.bandsintown.com/e/100395969?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: Oakland 
+
+date: 2018-10-27T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1009790219?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: Oakland 
+
+date: 2018-10-29T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1010323148?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: Vancouver 
+
+date: 2018-11-03T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1009789929?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: Tacoma 
+
+date: 2018-11-01T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1009789021?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: Vancouver 
+
+date: 2018-11-04T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1009790459?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: Edmonton 
+
+date: 2018-11-06T19:30:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: Floor is General Admission standing room.
+
+URL: https://www.bandsintown.com/e/1009790159?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: Edmonton 
+
+date: 2018-11-07T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: Floor is General Admission standing room.
+
+URL: https://www.bandsintown.com/e/1010322904?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: St Paul 
+
+date: 2018-11-11T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1011823548?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: Miami 
+
+date: 2018-11-13T20:00:00
+
+line-up: Drake,Migos
+
+description: This event has been rescheduled. Original date: 9/21/18 7pm New date: 11/13/18 8pm
+
+URL: https://www.bandsintown.com/e/1011889929?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: Atlanta 
+
+date: 2018-11-16T19:30:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: American Express has set a two-order limit for this offer. This limit applies across all Cards associated with all of your American Express accounts. Prepaid Cards are not eligible for this offer.
+
+URL: https://www.bandsintown.com/e/1009790453?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: Atlanta 
+
+date: 2018-11-17T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1009789069?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: Miami 
+
+date: 2018-11-14T19:00:00
+
+line-up: Drake,Migos
+
+description: This event has been rescheduled. Original date: 9/22/18 7pm New date: 11/14/18 7pm
+
+URL: https://www.bandsintown.com/e/1011889885?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: Woodbridge 
+
+date: 2018-11-29T19:00:00
+
+line-up: Drake,Shakura S'aida,Mia Martina,Giada De Laurentiis,Jessie Reyez
+
+description: Cocktail Hour Including Wine Tastings: 7:00pm Show Begins: 8:00pm Age Restrictions: 19+ Seats will be confirmed 1 week before the date of the event, but are subject to change. All guests are guaranteed the same or better seats.
+
+URL: https://www.bandsintown.com/e/1010058007?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: Paris 
+
+date: 2019-03-08T19:00:00
+
+line-up: Drake
+
+description: 
+
+URL: https://www.bandsintown.com/e/1011767709?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: undefined
+
+location: Paris 
+
+date: 2019-03-09T19:00:00
+
+line-up: Drake
+
+description: 
+
+URL: https://www.bandsintown.com/e/1011767345?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Vivint Smart Home Arena
+
+location: Salt Lake City 
+
+date: 2018-10-10T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: In order to deliver the high standard tour experience you expect and deserve, this Aubrey & the Three Migos tour date has been rescheduled and will now take place on 10/10/18. Original tickets will be valid for new date.
+
+URL: https://www.bandsintown.com/e/1011019786?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Staples Center
+
+location: Los Angeles 
+
+date: 2018-10-12T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1009789108?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Staples Center
+
+location: Los Angeles 
+
+date: 2018-10-13T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1009790522?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Staples Center
+
+location: Los Angeles 
+
+date: 2018-10-14T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1009901900?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: The Forum
+
+location: Los Angeles 
+
+date: 2018-10-16T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1009789906?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: The Forum
+
+location: Los Angeles 
+
+date: 2018-10-19T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1010321773?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: The Forum
+
+location: Los Angeles 
+
+date: 2018-10-17T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1009790551?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: The Forum
+
+location: Los Angeles 
+
+date: 2018-10-20T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1011812722?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Oracle Arena
+
+location: Oakland 
+
+date: 2018-10-26T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1009790634?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: USS Hornet Aircraft Carrier
+
+location: Alameda 
+
+date: 2018-10-26T21:30:00
+
+line-up: Drake
+
+description: 
+
+URL: https://www.bandsintown.com/e/100395969?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Oracle Arena
+
+location: Oakland 
+
+date: 2018-10-29T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1010323148?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Tacoma Dome
+
+location: Tacoma 
+
+date: 2018-11-01T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1009789021?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Oracle Arena
+
+location: Oakland 
+
+date: 2018-10-27T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1009790219?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Rogers Arena
+
+location: Vancouver 
+
+date: 2018-11-03T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1009789929?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Rogers Arena
+
+location: Vancouver 
+
+date: 2018-11-04T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1009790459?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Rogers Place
+
+location: Edmonton 
+
+date: 2018-11-06T19:30:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: Floor is General Admission standing room.
+
+URL: https://www.bandsintown.com/e/1009790159?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Rogers Place
+
+location: Edmonton 
+
+date: 2018-11-07T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: Floor is General Admission standing room.
+
+URL: https://www.bandsintown.com/e/1010322904?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Xcel Energy Center
+
+location: St Paul 
+
+date: 2018-11-11T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1011823548?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: AmericanAirlines Arena
+
+location: Miami 
+
+date: 2018-11-13T20:00:00
+
+line-up: Drake,Migos
+
+description: This event has been rescheduled. Original date: 9/21/18 7pm New date: 11/13/18 8pm
+
+URL: https://www.bandsintown.com/e/1011889929?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: AmericanAirlines Arena
+
+location: Miami 
+
+date: 2018-11-14T19:00:00
+
+line-up: Drake,Migos
+
+description: This event has been rescheduled. Original date: 9/22/18 7pm New date: 11/14/18 7pm
+
+URL: https://www.bandsintown.com/e/1011889885?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: State Farm Arena
+
+location: Atlanta 
+
+date: 2018-11-16T19:30:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: American Express has set a two-order limit for this offer. This limit applies across all Cards associated with all of your American Express accounts. Prepaid Cards are not eligible for this offer.
+
+URL: https://www.bandsintown.com/e/1009790453?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: State Farm Arena
+
+location: Atlanta 
+
+date: 2018-11-17T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+description: 
+
+URL: https://www.bandsintown.com/e/1009789069?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Chateau Le Jardin Event Venue
+
+location: Woodbridge 
+
+date: 2018-11-29T19:00:00
+
+line-up: Drake,Shakura S'aida,Mia Martina,Giada De Laurentiis,Jessie Reyez
+
+description: Cocktail Hour Including Wine Tastings: 7:00pm Show Begins: 8:00pm Age Restrictions: 19+ Seats will be confirmed 1 week before the date of the event, but are subject to change. All guests are guaranteed the same or better seats.
+
+URL: https://www.bandsintown.com/e/1010058007?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Accorhotels Arena
+
+location: Paris 
+
+date: 2019-03-08T19:00:00
+
+line-up: Drake
+
+description: 
+
+URL: https://www.bandsintown.com/e/1011767709?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Accorhotels Arena
+
+location: Paris 
+
+date: 2019-03-09T19:00:00
+
+line-up: Drake
+
+description: 
+
+URL: https://www.bandsintown.com/e/1011767345?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Vivint Smart Home Arena
+
+location: Salt Lake City 
+
+date: 2018-10-10T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1011019786?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Staples Center
+
+location: Los Angeles 
+
+date: 2018-10-12T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009789108?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Staples Center
+
+location: Los Angeles 
+
+date: 2018-10-13T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009790522?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Staples Center
+
+location: Los Angeles 
+
+date: 2018-10-14T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009901900?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: The Forum
+
+location: Los Angeles 
+
+date: 2018-10-16T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009789906?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: The Forum
+
+location: Los Angeles 
+
+date: 2018-10-19T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1010321773?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: The Forum
+
+location: Los Angeles 
+
+date: 2018-10-20T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1011812722?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Oracle Arena
+
+location: Oakland 
+
+date: 2018-10-26T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009790634?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: The Forum
+
+location: Los Angeles 
+
+date: 2018-10-17T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009790551?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: USS Hornet Aircraft Carrier
+
+location: Alameda 
+
+date: 2018-10-26T21:30:00
+
+line-up: Drake
+
+URL: https://www.bandsintown.com/e/100395969?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Oracle Arena
+
+location: Oakland 
+
+date: 2018-10-27T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009790219?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Oracle Arena
+
+location: Oakland 
+
+date: 2018-10-29T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1010323148?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Tacoma Dome
+
+location: Tacoma 
+
+date: 2018-11-01T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009789021?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Rogers Arena
+
+location: Vancouver 
+
+date: 2018-11-03T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009789929?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Rogers Arena
+
+location: Vancouver 
+
+date: 2018-11-04T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009790459?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Rogers Place
+
+location: Edmonton 
+
+date: 2018-11-06T19:30:00
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009790159?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Rogers Place
+
+location: Edmonton 
+
+date: 2018-11-07T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1010322904?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Xcel Energy Center
+
+location: St Paul 
+
+date: 2018-11-11T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1011823548?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: AmericanAirlines Arena
+
+location: Miami 
+
+date: 2018-11-14T19:00:00
+
+line-up: Drake,Migos
+
+URL: https://www.bandsintown.com/e/1011889885?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: AmericanAirlines Arena
+
+location: Miami 
+
+date: 2018-11-13T20:00:00
+
+line-up: Drake,Migos
+
+URL: https://www.bandsintown.com/e/1011889929?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: State Farm Arena
+
+location: Atlanta 
+
+date: 2018-11-16T19:30:00
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009790453?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: State Farm Arena
+
+location: Atlanta 
+
+date: 2018-11-17T19:00:00
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009789069?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Chateau Le Jardin Event Venue
+
+location: Woodbridge 
+
+date: 2018-11-29T19:00:00
+
+line-up: Drake,Shakura S'aida,Mia Martina,Giada De Laurentiis,Jessie Reyez
+
+URL: https://www.bandsintown.com/e/1010058007?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Accorhotels Arena
+
+location: Paris 
+
+date: 2019-03-08T19:00:00
+
+line-up: Drake
+
+URL: https://www.bandsintown.com/e/1011767709?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Accorhotels Arena
+
+location: Paris 
+
+date: 2019-03-09T19:00:00
+
+line-up: Drake
+
+URL: https://www.bandsintown.com/e/1011767345?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Vivint Smart Home Arena
+
+location: Salt Lake City 
+
+date: 10/10/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1011019786?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Staples Center
+
+location: Los Angeles 
+
+date: 10/12/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009789108?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Staples Center
+
+location: Los Angeles 
+
+date: 10/13/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009790522?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Staples Center
+
+location: Los Angeles 
+
+date: 10/14/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009901900?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: The Forum
+
+location: Los Angeles 
+
+date: 10/16/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009789906?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: The Forum
+
+location: Los Angeles 
+
+date: 10/17/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009790551?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: The Forum
+
+location: Los Angeles 
+
+date: 10/19/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1010321773?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: The Forum
+
+location: Los Angeles 
+
+date: 10/20/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1011812722?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Oracle Arena
+
+location: Oakland 
+
+date: 10/26/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009790634?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: USS Hornet Aircraft Carrier
+
+location: Alameda 
+
+date: 10/26/2018
+
+line-up: Drake
+
+URL: https://www.bandsintown.com/e/100395969?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Oracle Arena
+
+location: Oakland 
+
+date: 10/27/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009790219?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Oracle Arena
+
+location: Oakland 
+
+date: 10/29/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1010323148?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Tacoma Dome
+
+location: Tacoma 
+
+date: 11/01/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009789021?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Rogers Arena
+
+location: Vancouver 
+
+date: 11/03/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009789929?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Rogers Arena
+
+location: Vancouver 
+
+date: 11/04/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009790459?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Rogers Place
+
+location: Edmonton 
+
+date: 11/06/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009790159?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Rogers Place
+
+location: Edmonton 
+
+date: 11/07/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1010322904?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Xcel Energy Center
+
+location: St Paul 
+
+date: 11/11/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1011823548?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: AmericanAirlines Arena
+
+location: Miami 
+
+date: 11/13/2018
+
+line-up: Drake,Migos
+
+URL: https://www.bandsintown.com/e/1011889929?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: AmericanAirlines Arena
+
+location: Miami 
+
+date: 11/14/2018
+
+line-up: Drake,Migos
+
+URL: https://www.bandsintown.com/e/1011889885?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: State Farm Arena
+
+location: Atlanta 
+
+date: 11/16/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009790453?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: State Farm Arena
+
+location: Atlanta 
+
+date: 11/17/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009789069?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Chateau Le Jardin Event Venue
+
+location: Woodbridge 
+
+date: 11/29/2018
+
+line-up: Drake,Shakura S'aida,Mia Martina,Giada De Laurentiis,Jessie Reyez
+
+URL: https://www.bandsintown.com/e/1010058007?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Accorhotels Arena
+
+location: Paris 
+
+date: 03/08/2019
+
+line-up: Drake
+
+URL: https://www.bandsintown.com/e/1011767709?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Accorhotels Arena
+
+location: Paris 
+
+date: 03/09/2019
+
+line-up: Drake
+
+URL: https://www.bandsintown.com/e/1011767345?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventTitle of the movie: Hook
+
+Year the movie came out: 11 Dec 1991
+
+IMDB Rating of the movie: PG
+
+Rotten Tomatoes Rating of the movie: [object Object],[object Object],[object Object]
+
+Country where the movie was produced: USA
+
+language of the movie: English
+
+Actors in the movie: Dustin Hoffman, Robin Williams, Julia Roberts, Bob HoskinsTitle of the movie: Hook
+
+Year the movie came out: 11 Dec 1991
+
+IMDB Rating of the movie: PG
+
+Rotten Tomatoes Rating of the movie: 28%
+
+Country where the movie was produced: USA
+
+language of the movie: English
+
+Actors in the movie: Dustin Hoffman, Robin Williams, Julia Roberts, Bob HoskinsArtist: undefined
+
+The song's name: undefined
+
+A preview link of the the song from Spotify: undefined
+
+The album that the song is from: undefinedArtist: undefined
+
+The song's name: undefined
+
+A preview link of the the song from Spotify: undefined
+
+The album that the song is from: undefinedArtist: Toploader
+
+
+
+2
+
+The song's name: Dancing in the Moonlight - 2001 Remix
+
+
+
+2
+
+A preview link of the the song from Spotify: https://p.scdn.co/mp3-preview/bb872fb100458a4709c5bbd968fa040b440f2e47?cid=8e4fc0ba568647659c6722d8e81d056e
+
+
+
+2
+
+The album that the song is from: Onka's Big Moka
+
+
+
+2Artist: Toploader
+
+
+
+2
+
+The song's name: Dancing in the Moonlight - 2001 Remix
+
+
+
+2
+
+A preview link of the the song from Spotify: https://p.scdn.co/mp3-preview/bb872fb100458a4709c5bbd968fa040b440f2e47?cid=8e4fc0ba568647659c6722d8e81d056e
+
+
+
+2
+
+The album that the song is from: Onka's Big Moka
+
+
+
+2Artist: Carly Rae Jepsen
+
+
+
+2
+
+The song's name: Cut To The Feeling
+
+
+
+2
+
+A preview link of the the song from Spotify: null
+
+
+
+2
+
+The album that the song is from: Cut To The Feeling
+
+
+
+2Artist: Toploader
+
+The song's name: Dancing in the Moonlight - 2001 Remix
+
+A preview link of the the song from Spotify: https://p.scdn.co/mp3-preview/bb872fb100458a4709c5bbd968fa040b440f2e47?cid=8e4fc0ba568647659c6722d8e81d056e
+
+The album that the song is from: Onka's Big MokaArtist: Drake
+
+The song's name: Nonstop
+
+A preview link of the the song from Spotify: null
+
+The album that the song is from: ScorpionTitle of the movie: Hook
+
+Year the movie came out: 11 Dec 1991
+
+IMDB Rating of the movie: PG
+
+Rotten Tomatoes Rating of the movie: 28%
+
+Country where the movie was produced: USA
+
+language of the movie: English
+
+Actors in the movie: Dustin Hoffman, Robin Williams, Julia Roberts, Bob HoskinsVenue: Staples Center
+
+location: Los Angeles 
+
+date: 10/12/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009789108?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Staples Center
+
+location: Los Angeles 
+
+date: 10/13/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009790522?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Staples Center
+
+location: Los Angeles 
+
+date: 10/14/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009901900?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: The Forum
+
+location: Los Angeles 
+
+date: 10/16/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009789906?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: The Forum
+
+location: Los Angeles 
+
+date: 10/17/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009790551?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: The Forum
+
+location: Los Angeles 
+
+date: 10/19/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1010321773?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: The Forum
+
+location: Los Angeles 
+
+date: 10/20/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1011812722?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Oracle Arena
+
+location: Oakland 
+
+date: 10/26/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009790634?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: USS Hornet Aircraft Carrier
+
+location: Alameda 
+
+date: 10/26/2018
+
+line-up: Drake
+
+URL: https://www.bandsintown.com/e/100395969?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Oracle Arena
+
+location: Oakland 
+
+date: 10/27/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009790219?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Oracle Arena
+
+location: Oakland 
+
+date: 10/29/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1010323148?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Tacoma Dome
+
+location: Tacoma 
+
+date: 11/01/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009789021?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Rogers Arena
+
+location: Vancouver 
+
+date: 11/03/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009789929?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Rogers Arena
+
+location: Vancouver 
+
+date: 11/04/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009790459?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Rogers Place
+
+location: Edmonton 
+
+date: 11/06/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009790159?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Rogers Place
+
+location: Edmonton 
+
+date: 11/07/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1010322904?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Xcel Energy Center
+
+location: St Paul 
+
+date: 11/11/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1011823548?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: AmericanAirlines Arena
+
+location: Miami 
+
+date: 11/13/2018
+
+line-up: Drake,Migos
+
+URL: https://www.bandsintown.com/e/1011889929?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: AmericanAirlines Arena
+
+location: Miami 
+
+date: 11/14/2018
+
+line-up: Drake,Migos
+
+URL: https://www.bandsintown.com/e/1011889885?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: State Farm Arena
+
+location: Atlanta 
+
+date: 11/16/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009790453?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: State Farm Arena
+
+location: Atlanta 
+
+date: 11/17/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009789069?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Chateau Le Jardin Event Venue
+
+location: Woodbridge 
+
+date: 11/29/2018
+
+line-up: Drake,Shakura S'aida,Mia Martina,Giada De Laurentiis,Jessie Reyez
+
+URL: https://www.bandsintown.com/e/1010058007?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Accorhotels Arena
+
+location: Paris 
+
+date: 03/08/2019
+
+line-up: Drake
+
+URL: https://www.bandsintown.com/e/1011767709?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Accorhotels Arena
+
+location: Paris 
+
+date: 03/09/2019
+
+line-up: Drake
+
+URL: https://www.bandsintown.com/e/1011767345?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventTitle of the movie: Hook
+
+Year the movie came out: 11 Dec 1991
+
+IMDB Rating of the movie: PG
+
+Rotten Tomatoes Rating of the movie: 28%
+
+Country where the movie was produced: USA
+
+language of the movie: English
+
+Actors in the movie: Dustin Hoffman, Robin Williams, Julia Roberts, Bob HoskinsVenue: Staples Center
+
+location: Los Angeles 
+
+date: 10/12/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009789108?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Staples Center
+
+location: Los Angeles 
+
+date: 10/13/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009790522?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Staples Center
+
+location: Los Angeles 
+
+date: 10/14/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009901900?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: The Forum
+
+location: Los Angeles 
+
+date: 10/16/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009789906?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: The Forum
+
+location: Los Angeles 
+
+date: 10/17/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009790551?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: The Forum
+
+location: Los Angeles 
+
+date: 10/19/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1010321773?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: The Forum
+
+location: Los Angeles 
+
+date: 10/20/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1011812722?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Oracle Arena
+
+location: Oakland 
+
+date: 10/26/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009790634?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: USS Hornet Aircraft Carrier
+
+location: Alameda 
+
+date: 10/26/2018
+
+line-up: Drake
+
+URL: https://www.bandsintown.com/e/100395969?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Oracle Arena
+
+location: Oakland 
+
+date: 10/27/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009790219?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Oracle Arena
+
+location: Oakland 
+
+date: 10/29/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1010323148?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Tacoma Dome
+
+location: Tacoma 
+
+date: 11/01/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009789021?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Rogers Arena
+
+location: Vancouver 
+
+date: 11/03/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009789929?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Rogers Arena
+
+location: Vancouver 
+
+date: 11/04/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009790459?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Rogers Place
+
+location: Edmonton 
+
+date: 11/06/2018
+
+line-up: Drake,Migos
+
+URL: https://www.bandsintown.com/e/1009790159?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Rogers Place
+
+location: Edmonton 
+
+date: 11/07/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1010322904?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Xcel Energy Center
+
+location: St Paul 
+
+date: 11/11/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1011823548?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: AmericanAirlines Arena
+
+location: Miami 
+
+date: 11/13/2018
+
+line-up: Drake,Migos
+
+URL: https://www.bandsintown.com/e/1011889929?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: AmericanAirlines Arena
+
+location: Miami 
+
+date: 11/14/2018
+
+line-up: Drake,Migos
+
+URL: https://www.bandsintown.com/e/1011889885?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: State Farm Arena
+
+location: Atlanta 
+
+date: 11/16/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009790453?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: State Farm Arena
+
+location: Atlanta 
+
+date: 11/17/2018
+
+line-up: Drake,Migos,Roy Woods
+
+URL: https://www.bandsintown.com/e/1009789069?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Chateau Le Jardin Event Venue
+
+location: Woodbridge 
+
+date: 11/29/2018
+
+line-up: Drake,Shakura S'aida,Mia Martina,Giada De Laurentiis,Jessie Reyez
+
+URL: https://www.bandsintown.com/e/1010058007?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Accorhotels Arena
+
+location: Paris 
+
+date: 03/08/2019
+
+line-up: Drake
+
+URL: https://www.bandsintown.com/e/1011767709?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=eventVenue: Accorhotels Arena
+
+location: Paris 
+
+date: 03/09/2019
+
+line-up: Drake
+
+URL: https://www.bandsintown.com/e/1011767345?app_id=1f183818c8dd53bdeb1971486b5b1699&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event
